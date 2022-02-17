@@ -1,6 +1,6 @@
 import { REST } from '@discordjs/rest';
 import { Routes } from 'discord-api-types/v9';
-import { CLIENT_ID, SERVER_ID, TOKEN } from './_constant.js';
+import { CLIENT_ID, SERVER_ID, TOKEN } from './_constants.js';
 
 
 // 커맨드 설명

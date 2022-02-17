@@ -1,7 +1,7 @@
 import * as register from './register.js';
 import { Client, Intents } from 'discord.js';
 import { execute_commands } from './commands.js';
-import { TOKEN } from './_constant.js';
+import { TOKEN } from './_constants.js';
 
 
 const client = new Client({ intents: [
